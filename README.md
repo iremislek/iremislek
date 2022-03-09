@@ -1,8 +1,5 @@
-### Hi there 👋, I'm Irem
-
-<h3 align="center">A PhD Candidate working on Recommendation Systems, Machine Learning, Deep Learning</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h1>Hi there 👋, I'm Irem</h1>
+<p align="center">A PhD Candidate working on Recommendation Systems, Machine Learning, Deep Learning</p>
 <p align="left">
 </p>
 
