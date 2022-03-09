@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Irem</h1>
+<h1 align="center">Hi there 👋, I'm İrem</h1>
 <p align="left">A PhD Candidate working on Recommendation Systems, Machine Learning, Deep Learning</p>
 <p align="left">👩‍💻 Google Scholar Profile: https://scholar.google.com/citations?hl=tr&user=6HKIpkkAAAAJ</p>
 <p align="left">
