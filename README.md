@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Irem</h1>
+<h1 align="center">Hi there 👋, I'm Irem</h1>
 <p align="center">A PhD Candidate working on Recommendation Systems, Machine Learning, Deep Learning</p>
 <p align="left">
 </p>
