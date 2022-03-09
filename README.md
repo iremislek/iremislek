@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Irem</h1>
 <p align="center">A PhD Candidate working on Recommendation Systems, Machine Learning, Deep Learning</p>
-<p align="center"><Google Scholar Profile: https://scholar.google.com/citations?view_op=list_works&hl=tr&hl=tr&user=6HKIpkkAAAAJ</p>
+<p align="center">Google Scholar Profile: https://scholar.google.com/citations?view_op=list_works&hl=tr&hl=tr&user=6HKIpkkAAAAJ</p>
 <p align="left">
 </p>
 
